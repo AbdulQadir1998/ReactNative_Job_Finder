@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@react-native-community/async-storage": "^1.6.2",
+    "@react-native-community/masked-view": "^0.1.10",
     "axios": "^0.19.0",
     "country-iso": "^2.0.5",
     "country-iso-3-to-2": "^1.0.1",
@@ -21,7 +22,6 @@
     "react-native-maps": "^0.24.2",
     "redux-persist": "^6.0.0",
     "which-country": "^1.0.0",
-	"@react-native-community/masked-view": "^0.1.10",
     "expo-status-bar": "^1.0.0",
     "react": "~16.11.0",
     "react-dom": "~16.11.0",
